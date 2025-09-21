@@ -1,8 +1,8 @@
 # Actividad JPQL Práctico
 
 ## Integrantes
-- Juan Andrés Pirir Palma
-- Daniela Marisabel Lopez Aroche
+- Juan Andrés Pirir Palma - 2400479
+- Daniela Marisabel Lopez Aroche - 2400330
 
 ## Configuración
 ```bash
